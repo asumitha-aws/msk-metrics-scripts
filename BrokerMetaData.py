@@ -1,3 +1,4 @@
+%pyflink
 from kafka.cluster import ClusterMetadata
 
 brokers='<broker-endpoints>'

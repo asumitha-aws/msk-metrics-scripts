@@ -1,3 +1,4 @@
+%pyflink
 from kafka import KafkaConsumer
 brokers='<broker-endpoints>'
 consumer = KafkaConsumer(bootstrap_servers=brokers)

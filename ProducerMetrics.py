@@ -1,3 +1,4 @@
+%pyflink
 from kafka import KafkaProducer
 brokers='<broker-endpoints>'
 producer = KafkaProducer(bootstrap_servers=brokers)

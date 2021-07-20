@@ -1,3 +1,4 @@
+%pyflink
 import confluent_kafka
 brokers='<broker-endpoints>'
 group='None'
